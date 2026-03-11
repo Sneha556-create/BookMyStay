@@ -1,4 +1,4 @@
 # BookMyStay
 Stay booking app
-UC1
+UC2
 Language:Java
